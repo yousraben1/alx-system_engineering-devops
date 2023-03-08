@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la /tmp/my_first_directory/ /tmp/ /boot/
+ls -a /tmp/ /tmp/my_first_directory/ /boot/
